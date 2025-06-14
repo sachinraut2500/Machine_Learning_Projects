@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Projects
+#  Machine Learning Projects
 
 Welcome to the **Machine_Learning_Projects** repository! This collection contains various beginner-to-intermediate level machine learning and data science projects implemented using Python and Jupyter Notebooks. Each notebook explores a unique concept or problem, complete with code, analysis, and visualizations.
 
