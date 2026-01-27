@@ -6,7 +6,7 @@ Each notebook includes hands-on **code**, **analysis**, and **visualizations**.
 
 ![ML Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
----
+-----
 
 ## 📁 Project List
 
