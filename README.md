@@ -33,7 +33,7 @@ Each notebook includes hands-on **code**, **analysis**, and **visualizations**.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Blue?style=for-the-badge)
 
----
+------
 
 ## 🚀 Getting Started
 
