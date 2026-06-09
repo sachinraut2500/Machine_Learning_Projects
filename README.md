@@ -22,7 +22,7 @@ Each notebook includes hands-on **code**, **analysis**, and **visualizations**.
 | 📉 **[KNN Cross Validation](KNN_Cross_Validation.ipynb)** | Cross-validation on KNN classifier. | [Launch in Colab](https://github.com/sachinraut2500/Machine_Learning_Projects/blob/main/KNN_Cross_Validation.ipynb) |
 | 🧬 **[Hierarchical Clustering](hierarchial_clustering.ipynb)** | Dendrogram-based clustering analysis. | [Launch in Colab](https://github.com/sachinraut2500/Machine_Learning_Projects/blob/main/hierarchial_clustering.ipynb) |
 
----
+------
 
 ## 🛠 Technologies Used
 
